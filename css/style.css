@@ -1,0 +1,14 @@
+img{
+    width:20%;
+    height:20%;
+    margin:0 auto;
+    display: block;
+}
+img:hover{
+    width:25%;
+    height:25%;
+    border:5px solid black;
+}
+p{
+    text-shadow:5px 1px 5px black;
+}
